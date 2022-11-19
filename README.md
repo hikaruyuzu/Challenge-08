@@ -1,9 +1,12 @@
 # challenge 08 --Dwi Nurfiana--
 
-Di dalam repository ini terdapat implementasi API dari Binar Car Rental.
-Tugas kalian disini adalah:
-1. Fork repository
-2. Tulis unit test di dalam repository ini menggunakan `jest`.
-3. Coverage minimal 70%
+## Test The Server
 
-Good luck!
+Run the following command to start test the server using Jest 
+```bash
+  npm test
+```
+
+## Author
+
+Fina
