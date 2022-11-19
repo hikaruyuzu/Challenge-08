@@ -1,4 +1,4 @@
-# BCR API
+# challenge 08 --Dwi Nurfiana--
 
 Di dalam repository ini terdapat implementasi API dari Binar Car Rental.
 Tugas kalian disini adalah:
